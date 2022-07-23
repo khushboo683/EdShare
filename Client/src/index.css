@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Patrick+Hand&family=Roboto+Mono:ital,wght@0,600;1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Roboto+Mono:ital,wght@0,600;1,100&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Patrick+Hand&family=Roboto+Mono:ital,wght@0,600;1,100&family=Roboto:wght@100&display=swap');
+html{
+    overflow-x:hidden,
+    /* overflow-y:hidden */
+    
+}
