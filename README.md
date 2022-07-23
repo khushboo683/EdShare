@@ -3,4 +3,4 @@ Start your sharing journey right away. Explore documents shared by people from a
 
 
 ## Screenshots of site- 
-![Screenshot](./Screenshot/home.png?raw=true "Screenshot")
+![Screenshot](./Screenshot/welcome.png?raw=true "Screenshot")
